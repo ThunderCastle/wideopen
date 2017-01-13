@@ -1,0 +1,82 @@
+
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+header{
+
+}
+a{
+
+}
+.headcontainer{
+  width: 100%;
+  height: 520px;
+  background-image: url("images/cpuguy.jpg");
+  background-size: cover;
+}
+.navbar{
+
+}
+.masthead{
+
+
+}
+.logo{
+  height: 32px;
+  margin-top: 30px;
+  margin-left: 30px;
+  float: left;
+}
+.navwrapper{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+  padding-left: 350px;
+  padding-right: 50px;
+}
+.navlinks{
+  font-family: 'Lato', sans-serif;
+  color: #ECE9E8;
+  text-decoration: none;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.header-main-text{
+  width: 50%;
+  height: 700px;
+  margin: auto;
+  margin-top: 100px;
+}
+.upper-text{
+  margin: 0;
+}
+.above-text{
+  font-family: 'Oswald', sans-serif;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 22px;
+  margin-bottom: 0;
+}
+.main-text{
+  margin: 0;
+}
+.workshop{
+  font-family: 'Oswald', sans-serif;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 140px;
+
+}
+.under-text{
+
+}
+.bottom-text{
+  font-family: 'Oswald', sans-serif;
+  color: #FFFFFF;
+  text-transform: capitalize;
+}
